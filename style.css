@@ -1,0 +1,27 @@
+body {
+	background-color: gray;
+	color: black;
+	font-family: 'Dosis', cursive;
+	font-size: 30px;
+}
+label, form, input {
+	text-align: center;
+	margin-right: 30px;
+	font-size: 30px;
+}
+
+img {
+	height: 100px;
+	display: block;
+	padding: 20px;
+}
+a {
+	color: lightgray;
+	margin: 0 auto;
+	
+}
+#list {
+	margin-top: 50px;;
+	margin-left: 580px;
+}
+
